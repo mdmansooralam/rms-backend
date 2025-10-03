@@ -1,0 +1,22 @@
+[
+    {
+        "id": "78ad6c17-81b6-4d79-98d9-94f307b788e7",
+        "name": "Md Mansoor Alam",
+        "email": "mdmansoor.alam@indixpert.in",
+        "password": "$2b$12$G6V4Akv4g0ZRtGEGVhUPsecO0YJPXvrEPq.4f6nwAM84n4PY5WxnW",
+        "profilePicture": null,
+        "role": "user",
+        "resetPasswordToken": null,
+        "resetPasswordExpires": null
+    },
+    {
+        "id": "bf9fa010-b1a9-4d08-b119-c55687239e03",
+        "name": "Rahul Singh",
+        "email": "rahul.singh@indixpert.in",
+        "password": "$2b$12$k6R0BE4LdvOkeKCXpCsDN.OfrNYB2dFCsL6zteAxvvH9NjhpSFlRq",
+        "profilePicture": null,
+        "role": "user",
+        "resetPasswordToken": null,
+        "resetPasswordExpires": null
+    }
+]
