@@ -9,7 +9,7 @@ def get_categories():
     return get_menu_categories()
 
 @router.get('/')
-def get_menu(auth: None = Depends(check_auth)):
+def get_menu(): #auth: None = Depends(check_auth)
     return get_all_menu_items()
 
 @router.get('/category/{category}')
