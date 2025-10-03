@@ -1,7 +1,7 @@
 import os
 
 #URL
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://rms-backend-1ilc.onrender.com"
 IMAGE_URL = f"{BASE_URL}/images"
 
 #Directories path
